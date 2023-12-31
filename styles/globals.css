@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+        body {
+            background-color: black;
+        }
+
+        .sourceSerif {
+            font-family: 'Source Serif Pro', serif;
+            font-weight: 300;
+        }
+}
